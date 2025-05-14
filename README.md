@@ -1,73 +1,31 @@
-# Welcome to your Lovable project
+# 🛒 eCommerce App
 
-## Project info
+A full-featured eCommerce web application built with [your tech stack, e.g., React, Node.js, Express, MongoDB]. This app supports product browsing, cart management, user authentication, and order processing.
 
-**URL**: https://lovable.dev/projects/ce186696-345b-46a6-86c8-a827c7cfdc61
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+- User authentication (Register, Login, Logout)
+- Product listing with images and details
+- Add to cart / Remove from cart
+- Checkout process with order summary
+- Admin panel to manage products and orders
+- Responsive design for mobile and desktop
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ce186696-345b-46a6-86c8-a827c7cfdc61) and start prompting.
+## 🧰 Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend:** React / HTML / CSS / Typescrip / tailwindcss
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Authentication:** JWT (JSON Web Tokens)
+- **Deployment:** [e.g., Vercel / Netlify (frontend), Render / Railway (backend)]
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📸 Screenshots
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/ce186696-345b-46a6-86c8-a827c7cfdc61) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+> _You can add screenshots here using Markdown_  
+Example:
